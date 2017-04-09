@@ -2,7 +2,7 @@
 
 
 function Redirect() {
-               window.location = "index.html";
+               window.location = "index1.html";
             }
 
 
